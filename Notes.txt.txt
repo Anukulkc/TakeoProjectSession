@@ -1,0 +1,14 @@
+1.	To Clone a Rep
+> git clone <url>
+
+2.	How to add files from working area into staging area:
+	Git add . 
+3.	How to add files from staging area to local repository:
+	Git commit -m “any relevant message”
+4.	How to push my changes from local repo to remote repo (GitHub):
+	Git push
+5.	How to know the current status of a local repo:
+	Git status
+
+To clear git 
+Clear
