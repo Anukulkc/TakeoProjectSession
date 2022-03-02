@@ -1,0 +1,13 @@
+class A
+{
+	public static void main(String[] args) {
+		int sno = 100;
+		double sfee = 250.25;
+		char s = 's';
+		String name = "Sam";
+		boolean flag = true;
+		System.out.println(sno+"\t"+sfee+"\t"+name);
+
+	}
+
+}
