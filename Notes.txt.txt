@@ -10,5 +10,21 @@
 5.	How to know the current status of a local repo:
 	Git status
 
+6. How to display all branches
+>git branch
+........................................
+
+7. How to create a branch:
+>git branch <branch name>
+
+........................
+
+8. How to switch branch
+> git checkout >branch name>
+......................................
+
+9.How to push changes with newly created branch in local repo:
+>git push --set-upstream origin <branch name>
+................................................................. 
 To clear git 
 Clear
